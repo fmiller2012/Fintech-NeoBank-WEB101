@@ -1,0 +1,29 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+/* The ID selector is the most specific of the three below, followed by Class selector, and then lastly Element selector */
+
+/* h1 is the CSS Selector, more specifically a CSS Element Selector */
+h1 {
+    /* Two Rules below */
+    /* Background-Color and Color are the Properties */
+    /* Pink and Red are the Values */
+    background-color: pink;
+    color: red;
+}
+
+.blue {
+    background-color: aqua;
+    color: blue;
+}
+
+#green {
+    color: green;
+}
+
+html {
+	font-size: 22px
+}
+
+body {
+	background-color: #333;
+	color: whitesmoke;
+}
